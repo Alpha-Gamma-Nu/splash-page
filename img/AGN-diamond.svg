@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg34"
+   version="1.1"
+   class="st5"
+   color-interpolation-filters="sRGB"
+   xml:space="preserve"
+   viewBox="0 0 150.32455 433.89737"
+   height="6.0263524in"
+   width="2.087841in"><metadata
+   id="metadata40"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs38" />
+	<v:documentProperties
+   v:viewMarkup="false"
+   v:langID="1033">
+		<v:userDefs>
+			<v:ud
+   v:val="VT0(1):26"
+   v:nameU="msvNoAutoConnect" />
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style
+   id="style10"
+   type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#d4af37;font-family:Microsoft Sans Serif;font-size:4.99999em}
+		.st3 {font-size:1em}
+		.st4 {fill:none;stroke:#d4af37;stroke-width:6}
+		.st5 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g
+   transform="rotate(90,281.5584,189.60388)"
+   id="g32"
+   v:groupContext="foregroundPage"
+   v:index="1"
+   v:mID="12">
+		<title
+   id="title12">Page-1</title>
+		<v:pageProperties
+   v:shadowOffsetY="-9"
+   v:shadowOffsetX="9"
+   v:drawingUnits="19"
+   v:pageScale="1"
+   v:drawingScale="1" />
+		<g
+   transform="rotate(-90,93.7015,369.7985)"
+   v:groupContext="shape"
+   v:mID="4"
+   id="shape4-1">
+			<title
+   id="title14">Sheet.4</title>
+			<desc
+   id="desc16">A Γ N</desc>
+			<v:textBlock
+   v:margins="rect(4,4,4,4)" />
+			<v:textRect
+   height="414"
+   width="135.01"
+   cy="585"
+   cx="67.5" />
+			<rect
+   id="rect18"
+   class="st1"
+   height="414"
+   width="135"
+   y="378"
+   x="0" />
+			<text
+   id="text24"
+   v:langID="1033"
+   class="st2"
+   y="531"
+   x="47.490002"><v:paragraph
+   v:horizAlign="1" /><v:tabList />A<v:newlineChar /><tspan
+   id="tspan20"
+   class="st3"
+   dy="1.2em"
+   x="49.950001">Γ<v:newlineChar /></tspan><tspan
+   id="tspan22"
+   class="st3"
+   dy="1.2em"
+   x="45.830002">N</tspan> </text>		</g>
+		<g
+   transform="translate(92.9032,-324)"
+   v:groupContext="shape"
+   v:mID="2"
+   id="shape2-6">
+			<title
+   id="title27">Diamond</title>
+			<v:userDefs>
+				<v:ud
+   v:val="VT0(15):26"
+   v:prompt=""
+   v:nameU="visVersion" />
+			</v:userDefs>
+			<path
+   id="path29"
+   class="st4"
+   d="M 216,792 432,720 216,648 0,720 Z" />
+		</g>
+	</g>
+</svg>
