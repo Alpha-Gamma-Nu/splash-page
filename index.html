@@ -17,12 +17,29 @@
             color: white
         }
     </style>
+    <style>
+        .responsive-image {
+            background-image: url('img/AGN-100-schedule.jpeg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            /* Set a height if you want, or you can use padding to maintain aspect ratio */
+            height: 400px; 
+            width: 100%;
+        }
+    
+        @media (max-width: 800px) {
+            .responsive-image {
+                background-image: url('img/AGN-100-mobile.jpg');
+            }
+        }
+    </style>
+    
 </head>
 
 <body>
 
 <div class="container">
-    <img src="/img/AGN-100-schedule.jpeg"/>
+    <div class="responsive-image"></div>
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js"
